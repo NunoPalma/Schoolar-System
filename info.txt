@@ -1,0 +1,11 @@
+Para compilar:
+
+- Servidor:
+	* javac Server/publications/*.java
+	* javac Server/*java
+
+- Cliente:
+	* javac Client/*.java
+
+Correr o servidor: java Server.Server
+Correr o cliente: java Client.Client
